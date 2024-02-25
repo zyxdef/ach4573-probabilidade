@@ -1,0 +1,67 @@
+---
+title: "ACH4573 --- Probabilidade"
+subtitle: "Material de Apoio"
+author: "Marcelo Ventura --- mvf@usp.br"
+date: "`r Sys.Date() |> format('%d/%m/%Y')`"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Apresentação
+
+Marcelo Ventura Freire  
+Sala Coletiva Paulo Freire (I1-252)  
+mvf@usp.br  
+https://github.com/zyxdef
+
+
+
+## Este Material de Apoio
+
+Disponível em https://zyxdef.github.io/ach4573-probabilidade
+
+
+
+## Aulas
+
+- Sextas-feiras, 08:00--09:45, Sala I1-114
+- Sextas-feiras, 10:15--12:00, Sala I1-114
+
+
+
+## Atendimento
+
+- Agendamento por e-mail ou pessoalmente
+- Quintas-feiras, 14:00--15:00, Sala Coletiva Paulo Freire (I1-252)
+
+
+
+## Bibliografia adotada para o curso
+
+- Principal: 
+    - Bussab & Morettin.  
+      *Estatística Básica.*  
+      Ed. Saraiva.
+- Complementares
+    - Magalhães & Lima.  
+      *Noções de Probabilidade e Estatística.*  
+      Edusp.
+    - Magalhães. 
+      *Probabilidade e Variáveis Aleatórias.*  
+      Edusp.
+    - McClave, Benson & Sincich.  
+      *Estatística para Administração e Economia.* 
+      Ed. Pearson.
+
+
+
+## Conteúdo
+
+- Análise Descritiva
+    - 
+- Probabilidade
+
+
