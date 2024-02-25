@@ -4,6 +4,7 @@ subtitle: "Material de Apoio"
 author: "Marcelo Ventura --- mvf@usp.br"
 date: "`r Sys.Date() |> format('%d/%m/%Y')`"
 output: ioslides_presentation
+widescreen: true
 ---
 
 ```{r setup, include=FALSE}
@@ -13,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Apresentação
 
 Marcelo Ventura Freire  
-Sala Coletiva Paulo Freire (I1-252)  
+Sala Coletiva Paulo Freire (`I1-252`)  
 mvf@usp.br  
 https://github.com/zyxdef
 
@@ -27,15 +28,15 @@ Disponível em https://zyxdef.github.io/ach4573-probabilidade
 
 ## Aulas
 
-- Sextas-feiras, 08:00--09:45, Sala I1-114
-- Sextas-feiras, 10:15--12:00, Sala I1-114
+- Sextas-feiras, 08:00--09:45, Sala `I1-114`
+- Sextas-feiras, 10:15--12:00, Sala `I1-114`
 
 
 
 ## Atendimento
 
 - Agendamento por e-mail ou pessoalmente
-- Quintas-feiras, 14:00--15:00, Sala Coletiva Paulo Freire (I1-252)
+- Quintas-feiras, 14:00--15:00, Sala Coletiva Paulo Freire (`I1-252`)
 
 
 
@@ -61,7 +62,6 @@ Disponível em https://zyxdef.github.io/ach4573-probabilidade
 ## Conteúdo
 
 - Análise Descritiva
-    - 
 - Probabilidade
 
 
